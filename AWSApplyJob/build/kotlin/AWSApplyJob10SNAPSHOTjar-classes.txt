@@ -1,0 +1,1 @@
+D:\saileshpatel\Awsjob\AWSApplyJob\build\classes\java\main\aws\utility\BaseTest.class;D:\saileshpatel\Awsjob\AWSApplyJob\build\classes\java\main\aws\utility\GmailReader.class;D:\saileshpatel\Awsjob\AWSApplyJob\build\classes\java\main\aws\utility\HomePage.class;D:\saileshpatel\Awsjob\AWSApplyJob\build\classes\java\main\aws\utility\TestClass.class
